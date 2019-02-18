@@ -1,5 +1,5 @@
 <h1 align=center> SHOT MAIL!</h1>
-<h2> A simple mailing client to emails to multiple senders in one click..</h2>
+<h2> A simple mailing client to send email to multiple senders in one click..</h2>
 <hr>
 <h2>Description</h2>
 <p>	It is an application built in python. It is used to send emails with particular data to particular email specified in an Excel sheet. We do write a message format of specific type and dynamic content variables should be prefixed by $. After completion of specifying data in excel and message body in a text file. You can run our application. Fill the required details and click send. All the details will be sent to mutiple email addresses with their respective data.</p>
@@ -25,3 +25,4 @@ s_e.py     : Backend file</br>
 <h5>Step 5:</h5>
 <p>Mail Received</p>
 <img src= "https://github.com/sarfarazsyed/shotmail/blob/master/screenshots/5.png" alt="5">
+<h3 align="center">Thank You So Much!</h3>
